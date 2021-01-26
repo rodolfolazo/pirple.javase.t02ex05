@@ -3,6 +3,8 @@
  */
 package t02ex05;
 
+import java.lang.Math;
+
 /**
  * @author rodo
  */
